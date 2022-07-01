@@ -23,23 +23,23 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "Renz-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Renzོ ×፝֟͜×" //nama kalian
+global.myweb ="https://chat.whatsapp.com/HSSbStv1qCQ8zwapaTqGp3" //bebas asal jan hapus
+global.youtube = "https://www.youtube.com/channel/UCaldPN9vH-LNBrBlP1efQKg" //bebas asal jan hapus
+global.github = "https://github.com/renzgans" //bebas
+global.email = "rendypro81@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["622150996855","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.timezone = 'Asia/Kalimantan Barat/Ketapang' //  timezone wib
+global.owner = ["6281259365581","62998735516"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281259365581" // nomor wa kalian
+global.ownernomerr = "+6281259365581" //nmr wa kalian
+global.thumbnail = "./image/gg.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Renz-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh RenzStoreDL' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -50,10 +50,10 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
+    sukses: '🤗Done Banggg~',
+    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin, Makanya Jadi Admin !',
+    botAdmin: 'Jadiin Gue Admin Dulu Tolol Bangett !',
+    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Renz !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
